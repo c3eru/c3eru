@@ -1,8 +1,17 @@
-Github Statistics
-[<p align="center">![github stats](https://github-readme-stats.vercel.app/api?username=c3eru&show_icons=true&include_all_commits=false&bg_color=90,FFCC00,BC3800&title_color=fff&text_color=fff&icon_color=fff&border_color=FFC800&&border_radius=20&count_private=true)</p>](https://github.com/c3eru)
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=c3eru&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=c3eru&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+
+### 💻 Environment
+[![Ubuntu](https://img.shields.io/badge/ubuntu-latest%20-orange)](https://ubuntu.com/)
+[![Android Tiramisu 13](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
+### [Material 3](https://m3.material.io/) is all of why I start playing with Android.
+
+## 🌀 Programming languages
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
+
+### Featured, Clue maker for your setup application.
+
 ![](https://komarev.com/ghpvc/?username=c3eru)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=c3eru&theme=cobalt&&border_radius=20">
