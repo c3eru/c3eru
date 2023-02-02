@@ -1,6 +1,6 @@
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=c3eru&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=c3eru&show_icons=true&border_radius=20&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=c3eru&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=c3eru&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&border_radius=20&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 💻 Environment
 [![Ubuntu](https://img.shields.io/badge/ubuntu-latest%20-orange)](https://ubuntu.com/)
@@ -13,5 +13,4 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
 
 ### Featured, Clue maker for your setup application.
-
-![](https://komarev.com/ghpvc/?username=c3eru)
+ 
